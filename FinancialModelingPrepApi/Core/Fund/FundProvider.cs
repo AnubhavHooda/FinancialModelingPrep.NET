@@ -1,13 +1,13 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.Fund;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.Fund;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.Fund;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.Fund;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.Fund
+namespace InvestEasy.FinancialModelingPrep.Core.Fund
 {
     public class FundProvider : IFundProvider
     {

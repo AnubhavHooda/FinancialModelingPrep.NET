@@ -1,13 +1,13 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.Statistics;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.Statistics;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.Statistics;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.Statistics;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.Statistics
+namespace InvestEasy.FinancialModelingPrep.Core.Statistics
 {
     /// <inheritdoc/>
     public class StockStatisticsProvider : IStockStatisticsProvider

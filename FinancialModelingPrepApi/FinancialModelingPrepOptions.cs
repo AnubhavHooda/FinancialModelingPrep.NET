@@ -1,4 +1,4 @@
-﻿namespace MatthiWare.FinancialModelingPrep
+﻿namespace InvestEasy.FinancialModelingPrep
 {
     /// <summary>
     /// FMP Options

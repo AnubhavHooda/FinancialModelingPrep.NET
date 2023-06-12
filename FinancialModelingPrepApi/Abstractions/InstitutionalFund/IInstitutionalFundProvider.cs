@@ -1,9 +1,9 @@
-﻿using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.InstitutionalFund;
+﻿using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.InstitutionalFund;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Abstractions.InstitutionalFund
+namespace InvestEasy.FinancialModelingPrep.Abstractions.InstitutionalFund
 {
     public interface IInstitutionalFundProvider
     {

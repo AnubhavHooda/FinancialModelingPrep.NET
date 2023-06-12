@@ -1,4 +1,4 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.Fund;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.Fund;
 using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using Xunit;

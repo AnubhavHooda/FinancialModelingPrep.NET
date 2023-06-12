@@ -1,9 +1,9 @@
-﻿using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.CompanyValuation;
+﻿using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.CompanyValuation;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Abstractions.CompanyValuation
+namespace InvestEasy.FinancialModelingPrep.Abstractions.CompanyValuation
 {
     public interface ICompanyValuationProvider
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace MatthiWare.FinancialModelingPrep.Model.Economics
+namespace InvestEasy.FinancialModelingPrep.Model.Economics
 {
     public class EconomicIndicatorResponse
     {

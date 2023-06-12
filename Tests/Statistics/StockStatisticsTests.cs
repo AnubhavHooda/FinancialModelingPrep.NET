@@ -1,5 +1,5 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.Statistics;
-using MatthiWare.FinancialModelingPrep.Model;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.Statistics;
+using InvestEasy.FinancialModelingPrep.Model;
 using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using Xunit;

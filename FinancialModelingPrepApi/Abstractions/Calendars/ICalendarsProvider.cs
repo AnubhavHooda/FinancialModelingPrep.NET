@@ -1,9 +1,9 @@
-﻿using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.Calendars;
+﻿using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.Calendars;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Abstractions.Calendars
+namespace InvestEasy.FinancialModelingPrep.Abstractions.Calendars
 {
     public interface ICalendarsProvider
     {

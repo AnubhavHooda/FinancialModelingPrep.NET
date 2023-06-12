@@ -1,13 +1,13 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.Economics;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.Economics;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.Economics;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.Economics;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.Economics
+namespace InvestEasy.FinancialModelingPrep.Core.Economics
 {
     public class EconomicsProvider : IEconomicsProvider
     {

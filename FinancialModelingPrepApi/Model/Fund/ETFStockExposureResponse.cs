@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace MatthiWare.FinancialModelingPrep.Model.Fund
+namespace InvestEasy.FinancialModelingPrep.Model.Fund
 {
     public class ETFStockExposureResponse
     {

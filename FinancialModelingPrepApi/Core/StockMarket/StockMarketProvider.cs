@@ -1,12 +1,12 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.StockMarket;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.StockMarket;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.StockMarket;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.StockMarket;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.StockMarket
+namespace InvestEasy.FinancialModelingPrep.Core.StockMarket
 {
     public sealed class StockMarketProvider : IStockMarketProvider
     {

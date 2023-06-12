@@ -1,6 +1,6 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.Error;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.Error;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Specialized;
@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.Http
+namespace InvestEasy.FinancialModelingPrep.Core.Http
 {
     public class FinancialModelingPrepHttpClient
     {

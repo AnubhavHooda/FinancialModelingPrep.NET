@@ -1,9 +1,9 @@
-﻿using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.StockMarket;
+﻿using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.StockMarket;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Abstractions.StockMarket
+namespace InvestEasy.FinancialModelingPrep.Abstractions.StockMarket
 {
     public interface IStockMarketProvider
     {

@@ -1,4 +1,4 @@
-﻿namespace MatthiWare.FinancialModelingPrep.Abstractions.StockTimeSeries
+﻿namespace InvestEasy.FinancialModelingPrep.Abstractions.StockTimeSeries
 {
     public enum HistoricalChartSeries
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace MatthiWare.FinancialModelingPrep.Model.Statistics
+namespace InvestEasy.FinancialModelingPrep.Model.Statistics
 {
     public class AnalystEstimateItem
     {

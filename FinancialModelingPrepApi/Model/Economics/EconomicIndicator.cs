@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MatthiWare.FinancialModelingPrep.Model.Economics
+namespace InvestEasy.FinancialModelingPrep.Model.Economics
 {
     public enum EconomicIndicator
     {

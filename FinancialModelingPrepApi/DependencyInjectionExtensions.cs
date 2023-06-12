@@ -1,31 +1,31 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.AdvancedData;
-using MatthiWare.FinancialModelingPrep.Abstractions.Calendars;
-using MatthiWare.FinancialModelingPrep.Abstractions.CompanyValuation;
-using MatthiWare.FinancialModelingPrep.Abstractions.Economics;
-using MatthiWare.FinancialModelingPrep.Abstractions.Fund;
-using MatthiWare.FinancialModelingPrep.Abstractions.Http;
-using MatthiWare.FinancialModelingPrep.Abstractions.InstitutionalFund;
-using MatthiWare.FinancialModelingPrep.Abstractions.MarketIndexes;
-using MatthiWare.FinancialModelingPrep.Abstractions.Statistics;
-using MatthiWare.FinancialModelingPrep.Abstractions.StockMarket;
-using MatthiWare.FinancialModelingPrep.Abstractions.StockTimeSeries;
-using MatthiWare.FinancialModelingPrep.Core;
-using MatthiWare.FinancialModelingPrep.Core.AdvancedData;
-using MatthiWare.FinancialModelingPrep.Core.Calendars;
-using MatthiWare.FinancialModelingPrep.Core.CompanyValuation;
-using MatthiWare.FinancialModelingPrep.Core.Economics;
-using MatthiWare.FinancialModelingPrep.Core.Fund;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Core.InstitutionalFund;
-using MatthiWare.FinancialModelingPrep.Core.MarketIndexes;
-using MatthiWare.FinancialModelingPrep.Core.Statistics;
-using MatthiWare.FinancialModelingPrep.Core.StockMarket;
-using MatthiWare.FinancialModelingPrep.Core.StockTimeSeries;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.AdvancedData;
+using InvestEasy.FinancialModelingPrep.Abstractions.Calendars;
+using InvestEasy.FinancialModelingPrep.Abstractions.CompanyValuation;
+using InvestEasy.FinancialModelingPrep.Abstractions.Economics;
+using InvestEasy.FinancialModelingPrep.Abstractions.Fund;
+using InvestEasy.FinancialModelingPrep.Abstractions.Http;
+using InvestEasy.FinancialModelingPrep.Abstractions.InstitutionalFund;
+using InvestEasy.FinancialModelingPrep.Abstractions.MarketIndexes;
+using InvestEasy.FinancialModelingPrep.Abstractions.Statistics;
+using InvestEasy.FinancialModelingPrep.Abstractions.StockMarket;
+using InvestEasy.FinancialModelingPrep.Abstractions.StockTimeSeries;
+using InvestEasy.FinancialModelingPrep.Core;
+using InvestEasy.FinancialModelingPrep.Core.AdvancedData;
+using InvestEasy.FinancialModelingPrep.Core.Calendars;
+using InvestEasy.FinancialModelingPrep.Core.CompanyValuation;
+using InvestEasy.FinancialModelingPrep.Core.Economics;
+using InvestEasy.FinancialModelingPrep.Core.Fund;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Core.InstitutionalFund;
+using InvestEasy.FinancialModelingPrep.Core.MarketIndexes;
+using InvestEasy.FinancialModelingPrep.Core.Statistics;
+using InvestEasy.FinancialModelingPrep.Core.StockMarket;
+using InvestEasy.FinancialModelingPrep.Core.StockTimeSeries;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using System;
 
-namespace MatthiWare.FinancialModelingPrep
+namespace InvestEasy.FinancialModelingPrep
 {
     public static class DependencyInjectionExtensions
     {

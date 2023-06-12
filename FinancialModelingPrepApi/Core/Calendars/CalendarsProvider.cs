@@ -1,13 +1,13 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.Calendars;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.Calendars;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.Calendars;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.Calendars;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.Calendars
+namespace InvestEasy.FinancialModelingPrep.Core.Calendars
 {
     public class CalendarsProvider : ICalendarsProvider
     {

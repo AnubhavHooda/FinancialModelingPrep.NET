@@ -1,4 +1,4 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.StockMarket;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.StockMarket;
 using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using Xunit;
@@ -45,7 +45,7 @@ namespace Tests.StockMarket
         [Fact]
         public async Task GetStockScreen()
         {
-            var result = await api.StockScreener(marketCapMoreThan: 1000000000, betaMoreThan: 1, volumeMoreThan: 10000, sector: MatthiWare.FinancialModelingPrep.Sector.Technology, exchange: MatthiWare.FinancialModelingPrep.Model.Exchange.NASDAQ);
+            var result = await api.StockScreener(marketCapMoreThan: 1000000000, betaMoreThan: 1, volumeMoreThan: 10000, sector: InvestEasy.FinancialModelingPrep.Sector.Technology, exchange: InvestEasy.FinancialModelingPrep.Model.Exchange.NASDAQ);
 
             result.AssertNoErrors();
             Assert.NotEmpty(result.Data);

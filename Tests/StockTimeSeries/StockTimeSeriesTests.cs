@@ -1,4 +1,4 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.StockTimeSeries;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.StockTimeSeries;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;

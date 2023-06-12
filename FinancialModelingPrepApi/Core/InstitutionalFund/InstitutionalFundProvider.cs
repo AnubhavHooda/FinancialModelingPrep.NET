@@ -1,14 +1,14 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.InstitutionalFund;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.InstitutionalFund;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.InstitutionalFund;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.InstitutionalFund;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.InstitutionalFund
+namespace InvestEasy.FinancialModelingPrep.Core.InstitutionalFund
 {
     public class InstitutionalFundProvider : IInstitutionalFundProvider
     {

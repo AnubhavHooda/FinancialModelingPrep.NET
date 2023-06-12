@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace MatthiWare.FinancialModelingPrep
+namespace InvestEasy.FinancialModelingPrep
 {
     /// <summary>
     /// Exposes factory methods to easily create clients without using dependency injection.

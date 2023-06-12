@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace MatthiWare.FinancialModelingPrep.Model.CompanyValuation
+namespace InvestEasy.FinancialModelingPrep.Model.CompanyValuation
 {
     public class HistoricalDCFResponse
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace MatthiWare.FinancialModelingPrep.Model.AdvancedData
+namespace InvestEasy.FinancialModelingPrep.Model.AdvancedData
 {
     public class StandardIndustrialClassificationResponse
     {

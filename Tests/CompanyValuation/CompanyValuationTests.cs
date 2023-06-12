@@ -1,5 +1,5 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.CompanyValuation;
-using MatthiWare.FinancialModelingPrep.Model;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.CompanyValuation;
+using InvestEasy.FinancialModelingPrep.Model;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;

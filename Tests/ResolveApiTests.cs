@@ -1,4 +1,4 @@
-﻿using MatthiWare.FinancialModelingPrep;
+﻿using InvestEasy.FinancialModelingPrep;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
 using Xunit.Abstractions;

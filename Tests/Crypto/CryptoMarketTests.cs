@@ -1,4 +1,4 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.StockMarket;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.StockMarket;
 using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using Xunit;
@@ -36,7 +36,7 @@ namespace Tests.StockMarket
         [Fact]
         public async Task GetPeriodPriceData()
         {
-            var result = await api.GetHistoricalPrices("BTCUSD", MatthiWare.FinancialModelingPrep.Model.HistoricalPricingPeriod.OneHour);
+            var result = await api.GetHistoricalPrices("BTCUSD", InvestEasy.FinancialModelingPrep.Model.HistoricalPricingPeriod.OneHour);
 
             result.AssertNoErrors();
             Assert.NotEmpty(result.Data);

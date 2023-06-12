@@ -1,12 +1,12 @@
 ﻿using Divergic.Logging.Xunit;
-using MatthiWare.FinancialModelingPrep;
+using InvestEasy.FinancialModelingPrep;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Configuration;
 using System;
 using Xunit.Abstractions;
-using MatthiWare.FinancialModelingPrep.Abstractions.Http;
-using MatthiWare.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Abstractions.Http;
+using InvestEasy.FinancialModelingPrep.Core.Http;
 
 namespace Tests
 {

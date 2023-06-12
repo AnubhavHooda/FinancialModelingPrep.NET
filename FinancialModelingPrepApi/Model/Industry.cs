@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Model
+namespace InvestEasy.FinancialModelingPrep.Model
 {
     public enum Industry
     {

@@ -1,14 +1,14 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.CompanyValuation;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.CompanyValuation;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.CompanyValuation;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.CompanyValuation;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.CompanyValuation
+namespace InvestEasy.FinancialModelingPrep.Core.CompanyValuation
 {
     public class CompanyValuationProvider : ICompanyValuationProvider
     {

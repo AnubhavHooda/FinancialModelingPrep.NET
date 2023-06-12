@@ -1,13 +1,13 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.AdvancedData;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.AdvancedData;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.AdvancedData;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.AdvancedData;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.AdvancedData
+namespace InvestEasy.FinancialModelingPrep.Core.AdvancedData
 {
     public class AdvancedDataProvider : IAdvancedDataProvider
     {

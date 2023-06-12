@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace MatthiWare.FinancialModelingPrep.Model.StockTimeSeries
+namespace InvestEasy.FinancialModelingPrep.Model.StockTimeSeries
 {
     public class HistoricalPriceForChartWithVolumeResponse
     {

@@ -1,5 +1,5 @@
-﻿using MatthiWare.FinancialModelingPrep;
-using MatthiWare.FinancialModelingPrep.Abstractions.Calendars;
+﻿using InvestEasy.FinancialModelingPrep;
+using InvestEasy.FinancialModelingPrep.Abstractions.Calendars;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Linq;

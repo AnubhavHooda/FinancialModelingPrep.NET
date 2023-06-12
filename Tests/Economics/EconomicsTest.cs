@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Xunit.Abstractions;
 using Xunit;
-using MatthiWare.FinancialModelingPrep.Abstractions.Economics;
-using MatthiWare.FinancialModelingPrep.Model.Economics;
+using InvestEasy.FinancialModelingPrep.Abstractions.Economics;
+using InvestEasy.FinancialModelingPrep.Model.Economics;
 
 namespace Tests.Economics
 {

@@ -1,4 +1,4 @@
-﻿using MatthiWare.FinancialModelingPrep;
+﻿using InvestEasy.FinancialModelingPrep;
 using Xunit;
 
 namespace Tests

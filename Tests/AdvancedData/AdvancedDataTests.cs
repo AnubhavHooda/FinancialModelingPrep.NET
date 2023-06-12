@@ -1,7 +1,7 @@
-﻿using MatthiWare.FinancialModelingPrep;
-using MatthiWare.FinancialModelingPrep.Abstractions.AdvancedData;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.AdvancedData;
+﻿using InvestEasy.FinancialModelingPrep;
+using InvestEasy.FinancialModelingPrep.Abstractions.AdvancedData;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.AdvancedData;
 using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using Xunit;

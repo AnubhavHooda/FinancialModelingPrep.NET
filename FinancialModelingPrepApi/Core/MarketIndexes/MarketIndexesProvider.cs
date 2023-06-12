@@ -1,13 +1,13 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.MarketIndexes;
-using MatthiWare.FinancialModelingPrep.Core.Http;
-using MatthiWare.FinancialModelingPrep.Model;
-using MatthiWare.FinancialModelingPrep.Model.CompanyValuation;
-using MatthiWare.FinancialModelingPrep.Model.MarketIndexes;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.MarketIndexes;
+using InvestEasy.FinancialModelingPrep.Core.Http;
+using InvestEasy.FinancialModelingPrep.Model;
+using InvestEasy.FinancialModelingPrep.Model.CompanyValuation;
+using InvestEasy.FinancialModelingPrep.Model.MarketIndexes;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
 
-namespace MatthiWare.FinancialModelingPrep.Core.MarketIndexes
+namespace InvestEasy.FinancialModelingPrep.Core.MarketIndexes
 {
     public class MarketIndexesProvider : IMarketIndexesProvider
     {

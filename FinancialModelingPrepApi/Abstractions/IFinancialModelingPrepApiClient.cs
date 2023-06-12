@@ -1,15 +1,15 @@
-﻿using MatthiWare.FinancialModelingPrep.Abstractions.AdvancedData;
-using MatthiWare.FinancialModelingPrep.Abstractions.Calendars;
-using MatthiWare.FinancialModelingPrep.Abstractions.CompanyValuation;
-using MatthiWare.FinancialModelingPrep.Abstractions.Economics;
-using MatthiWare.FinancialModelingPrep.Abstractions.Fund;
-using MatthiWare.FinancialModelingPrep.Abstractions.InstitutionalFund;
-using MatthiWare.FinancialModelingPrep.Abstractions.MarketIndexes;
-using MatthiWare.FinancialModelingPrep.Abstractions.Statistics;
-using MatthiWare.FinancialModelingPrep.Abstractions.StockMarket;
-using MatthiWare.FinancialModelingPrep.Abstractions.StockTimeSeries;
+﻿using InvestEasy.FinancialModelingPrep.Abstractions.AdvancedData;
+using InvestEasy.FinancialModelingPrep.Abstractions.Calendars;
+using InvestEasy.FinancialModelingPrep.Abstractions.CompanyValuation;
+using InvestEasy.FinancialModelingPrep.Abstractions.Economics;
+using InvestEasy.FinancialModelingPrep.Abstractions.Fund;
+using InvestEasy.FinancialModelingPrep.Abstractions.InstitutionalFund;
+using InvestEasy.FinancialModelingPrep.Abstractions.MarketIndexes;
+using InvestEasy.FinancialModelingPrep.Abstractions.Statistics;
+using InvestEasy.FinancialModelingPrep.Abstractions.StockMarket;
+using InvestEasy.FinancialModelingPrep.Abstractions.StockTimeSeries;
 
-namespace MatthiWare.FinancialModelingPrep
+namespace InvestEasy.FinancialModelingPrep
 {
     /// <summary>
     /// FMP Client that exposes different sections of Endpoints
